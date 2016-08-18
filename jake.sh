@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "MATHENOTMAGICAL!"
+echo "Mathemagical!"
 echo "I love Lady Rainicorn"
 
